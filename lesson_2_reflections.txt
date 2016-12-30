@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git init create hidden folder inside current folder which contains various metadata about files contained there. It is used to store everything that is needed for version control. Without git init, there is no repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area sits in between working directory and repository. It allows us to decide which of the files in working directory should be included in next commit.
+
