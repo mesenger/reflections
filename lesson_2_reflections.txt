@@ -6,3 +6,11 @@ How is the staging area different from the working directory and the repository?
 
 Staging area sits in between working directory and repository. It allows us to decide which of the files in working directory should be included in next commit.
 
+How can you use the staging area to make sure  you have one commit per logical change?
+
+I can use staging area to create multiple commits from all the changes in working directory. I can add one file to staging, commit it, then add another and so on.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branching can be useful if I want to try making some modification to current code, to test some idea first. Also it can be used if I want to create two versions of my code. Branch helps in that it allows to quickly jump back to original.
+
