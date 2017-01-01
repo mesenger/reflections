@@ -14,3 +14,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branching can be useful if I want to try making some modification to current code, to test some idea first. Also it can be used if I want to create two versions of my code. Branch helps in that it allows to quickly jump back to original.
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make it easy to see relationships of parents of my commits so I can see which branch started where.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+New commit is the result of merging two branches. Its representation shows how is it connected to both branches that were merged.
