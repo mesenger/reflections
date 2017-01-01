@@ -21,3 +21,8 @@ Diagrams make it easy to see relationships of parents of my commits so I can see
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 New commit is the result of merging two branches. Its representation shows how is it connected to both branches that were merged.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging can save a lot of time when the changes are simple. At the same time, it leaves possibility for manual merge if it is needed.
+
