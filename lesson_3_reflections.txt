@@ -9,3 +9,8 @@ Manual way allows me to decide exactly what I want to have synchronised.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork created my own copy of Github repo on the github only. Cloning copies my own fork down to my computer, or it can also copy repo on my comp to different place on my comp. Branch just creates new copy of my code that I can tinker with.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+With this copy I am able to see if my current work is different and makes comparing much easier. I also allows me to download just possible additions from the web if there are any.
+
