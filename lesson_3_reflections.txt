@@ -15,10 +15,14 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
   With this copy I am able to see if my current work is different and makes comparing much easier. 
-  I also allows me to download just possible additions from the web if there are any.
+  It also allows me to download just possible additions from the web if there are any.
 
 How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 
   Without git or github, I would have to zip and copy my files everytime I wanted to share something. 
   There might be less clicking on Github website but otherwise I would have to spend more time sorting through the files.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  
+  I would use separate branch if I am collaborating with other people, and also when I want to make sure that master branch stays 
+  always with correct code(if some CI/CD is used for example) and is not used for experimenting.
